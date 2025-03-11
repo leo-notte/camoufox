@@ -222,7 +222,7 @@
     "group": "annoyances",
     "group2": "cookies",
     "parent": "EasyList/uBO – Cookie Notices",
-    "off": true,
+    "off": false,
     "title": "EasyList – Cookie Notices",
     "tags": "annoyances cookies",
     "preferred": true,
