@@ -202,8 +202,10 @@
   },
   "ublock-cookies-adguard": {
     "content": "filters",
-    "group": "default",
+    "group": "annoyances",
+    "group2": "cookies",
     "parent": "AdGuard/uBO – Cookie Notices",
+    "off": true,
     "title": "uBlock filters – Cookie Notices",
     "tags": "annoyances cookies",
     "contentURL": "https://ublockorigin.github.io/uAssets/filters/annoyances-cookies.txt",
@@ -239,8 +241,10 @@
   },
   "ublock-cookies-easylist": {
     "content": "filters",
-    "group": "default",
+    "group": "annoyances",
+    "group2": "cookies",
     "parent": "EasyList/uBO – Cookie Notices",
+    "off": false,
     "title": "uBlock filters – Cookie Notices",
     "tags": "annoyances cookies",
     "preferred": true,
@@ -861,3 +865,4 @@
     "supportURL": "https://github.com/DandelionSprout/adfilt/discussions/163"
   }
 }
+
